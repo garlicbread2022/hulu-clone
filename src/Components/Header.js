@@ -95,7 +95,7 @@ const Header = () => {
 				</Link>
 				<a
 					className="header__icon"
-					href="https://github.com/mahessh77melo/hulu-clone"
+					href="https://github.com/IsaacLee2122"
 				>
 					<IconButton>
 						<GitHubIcon />
